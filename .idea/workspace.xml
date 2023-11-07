@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 00 - Hello, World/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 01 - Data Types/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 02 - Operators/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 03 - Intro to Conditional Statements/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 04 - Class vs. Instance/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 05 - Loops/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 06 - Let's Review/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 07 - Arrays/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 08 - Dictionaries and Maps/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 09 - Recursion 3/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 10 - Binary Numbers/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 11 - 2D Arrays/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 12 - Inheritance/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 13 - Abstract Classes/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 14 - Scope/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 15 - Linked List/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 16 - Exceptions - String to Integer/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Anagrams/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java String Reverse/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java String Tokens/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Strings Introduction/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Substring Comparisons/Solution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Substring/Solution.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +43,28 @@
       <option name="presentableId" value="Default" />
       <updated>1699271284162</updated>
     </task>
+    <task id="LOCAL-00001" summary="file extension fixed">
+      <option name="closed" value="true" />
+      <created>1699361199581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699361199582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial comment">
+      <option name="closed" value="true" />
+      <created>1699361360419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699361360419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="file extension fixed" />
+    <MESSAGE value="initial comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial comment" />
   </component>
 </project>
