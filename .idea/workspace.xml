@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial comment">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="added Pattern Syntax Checker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699362441926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Pattern Syntax Checker">
+      <option name="closed" value="true" />
+      <created>1699362900552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699362900552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file extension fixed" />
     <MESSAGE value="initial comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial comment" />
+    <MESSAGE value="added Pattern Syntax Checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Pattern Syntax Checker" />
   </component>
 </project>
