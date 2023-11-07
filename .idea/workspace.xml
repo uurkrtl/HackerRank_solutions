@@ -5,15 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../airlineReservationSystem/src/main/java/org/eagle/entities/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../generic-class-demo/src/main/java/org/example/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../generic-class-demo/src/test/java/org/example/GenericClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../genericsDemo/src/main/java/org/example/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 00 - Hello, World/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 01 - Data Types/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 02 - Operators/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 03 - Intro to Conditional Statements/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 04 - Class vs. Instance/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 05 - Loops/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 06 - Let's Review/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 07 - Arrays/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 08 - Dictionaries and Maps/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 09 - Recursion 3/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 10 - Binary Numbers/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 11 - 2D Arrays/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 12 - Inheritance/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 13 - Abstract Classes/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 14 - Scope/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 15 - Linked List/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 16 - Exceptions - String to Integer/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Anagrams/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java String Reverse/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java String Tokens/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Strings Introduction/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Substring Comparisons/Solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Strings/Java Substring/Solution.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,24 +37,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XniWEB6JNA0UAQvvXH3JTfaWcJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/javaProjects/Collection/hackerrank30DaysOfCodeChallenges"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaProjects/HackerRank_solutions&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
