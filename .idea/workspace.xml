@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="added Java Regex">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699367637698</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1699446771547</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699446771547</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +100,7 @@
     <MESSAGE value="initial comment" />
     <MESSAGE value="added Pattern Syntax Checker" />
     <MESSAGE value="added Java Regex" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Java Regex" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
