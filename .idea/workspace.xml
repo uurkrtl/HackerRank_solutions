@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial commit">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="added day 18">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/30 Days of Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699446771547</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1699447252999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699447252999</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added day 18">
+      <option name="closed" value="true" />
+      <created>1699529830796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699529830797</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -101,6 +117,8 @@
     <MESSAGE value="added Pattern Syntax Checker" />
     <MESSAGE value="added Java Regex" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="updated readme.md" />
+    <MESSAGE value="added day 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="added day 18" />
   </component>
 </project>
