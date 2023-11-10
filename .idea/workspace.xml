@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial comment">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="added Day 19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,17 +116,42 @@
       <option name="project" value="LOCAL" />
       <updated>1699565140054</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1699565828082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699565828082</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1699565921748</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699565921748</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added Day 19">
+      <option name="closed" value="true" />
+      <created>1699610639591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699610639591</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file extension fixed" />
     <MESSAGE value="added Pattern Syntax Checker" />
     <MESSAGE value="added Java Regex" />
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="updated readme.md" />
     <MESSAGE value="added day 18" />
     <MESSAGE value="initial comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial comment" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="updated readme.md" />
+    <MESSAGE value="added Day 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Day 19" />
   </component>
 </project>
