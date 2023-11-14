@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="updated readme.md" />
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="updated readme.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699796066042</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added Day 22">
+      <option name="closed" value="true" />
+      <created>1699898394376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699898394377</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1699898522673</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699898522673</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +224,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added Day 20" />
     <MESSAGE value="added Day 21" />
+    <MESSAGE value="added Day 22" />
     <MESSAGE value="updated readme.md" />
     <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
   </component>
