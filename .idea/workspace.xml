@@ -211,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699898522673</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added Day 23">
+      <option name="closed" value="true" />
+      <created>1699972128964</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1699972128965</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1699972220070</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1699972220070</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +241,7 @@
     <MESSAGE value="added Day 20" />
     <MESSAGE value="added Day 21" />
     <MESSAGE value="added Day 22" />
+    <MESSAGE value="added Day 23" />
     <MESSAGE value="updated readme.md" />
     <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
   </component>
