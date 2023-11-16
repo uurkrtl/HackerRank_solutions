@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="updated readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/PageNumberComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699972220070</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added Day 24">
+      <option name="closed" value="true" />
+      <created>1700077114352</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700077114352</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1700077282666</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700077282666</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +259,7 @@
     <MESSAGE value="added Day 21" />
     <MESSAGE value="added Day 22" />
     <MESSAGE value="added Day 23" />
+    <MESSAGE value="added Day 24" />
     <MESSAGE value="updated readme.md" />
     <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
   </component>
