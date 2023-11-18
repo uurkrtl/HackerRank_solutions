@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="updated readme.md">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="added Day 27">
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/PageNumberComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../football-fixture-creator/src/main/java/org/kartal/Fixture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/QueueDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Days of Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700216074473</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added Day 27">
+      <option name="closed" value="true" />
+      <created>1700311133562</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1700311133562</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,6 +325,7 @@
     <MESSAGE value="added BigNumber" />
     <MESSAGE value="added Day 26" />
     <MESSAGE value="updated readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
+    <MESSAGE value="added Day 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Day 27" />
   </component>
 </project>
