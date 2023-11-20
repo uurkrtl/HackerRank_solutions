@@ -11,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/QueueDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/StackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/30 Days of Code/Day 27 - Testing/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/30 Days of Code/Day 27 - Testing/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -314,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700311881980</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added Day 28">
+      <option name="closed" value="true" />
+      <created>1700399937672</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1700399937672</updated>
+    </task>
+    <task id="LOCAL-00035" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1700400169651</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1700400169651</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -334,6 +349,7 @@
     <MESSAGE value="added BigNumber" />
     <MESSAGE value="added Day 26" />
     <MESSAGE value="added Day 27" />
+    <MESSAGE value="added Day 28" />
     <MESSAGE value="updated readme.md" />
     <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
   </component>
