@@ -2,7 +2,7 @@
 //  Day 27: Testing
 //  HackerRank-Solutions/30 Days of Code
 //
-//  Created by Ugur Kartal on 18/11/2023.
+//  Created by Ugur Kartal on 18/11/2023
 //  Copyright © 2023 Ugur Kartal. All rights reserved.
 //
 
