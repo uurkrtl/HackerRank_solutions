@@ -1,0 +1,5 @@
+-- Created by Ugur Kartal
+
+SELECT COUNT(ID)
+FROM CITY
+WHERE POPULATION > 100000;
