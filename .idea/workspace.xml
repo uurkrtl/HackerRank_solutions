@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="update readme.md">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="add Basic Select">
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/PageNumberComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../football-fixture-creator/src/main/java/org/kartal/Fixture.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/QueueDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,30 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699271284162</updated>
-    </task>
-    <task id="LOCAL-00001" summary="file extension fixed">
-      <option name="closed" value="true" />
-      <created>1699361199581</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1699361199582</updated>
-    </task>
-    <task id="LOCAL-00002" summary="initial comment">
-      <option name="closed" value="true" />
-      <created>1699361360419</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1699361360419</updated>
-    </task>
-    <task id="LOCAL-00003" summary="initial comment">
-      <option name="closed" value="true" />
-      <created>1699362441926</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1699362441926</updated>
     </task>
     <task id="LOCAL-00004" summary="added Pattern Syntax Checker">
       <option name="closed" value="true" />
@@ -400,13 +377,74 @@
       <option name="project" value="LOCAL" />
       <updated>1700931787830</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="add Java Hashset">
+      <option name="closed" value="true" />
+      <created>1701007210840</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1701007210840</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update readme.md">
+      <option name="closed" value="true" />
+      <created>1701007309129</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1701007309129</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add Java Priorty Queue">
+      <option name="closed" value="true" />
+      <created>1701099722649</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1701099722649</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add Java Priorty Queue">
+      <option name="closed" value="true" />
+      <created>1701185525994</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1701185525994</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update readm">
+      <option name="closed" value="true" />
+      <created>1701258535536</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1701258535536</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add Basic Join">
+      <option name="closed" value="true" />
+      <created>1701808097764</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1701808097765</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add Basic Join">
+      <option name="closed" value="true" />
+      <created>1701889488651</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1701889488652</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add Basic Select">
+      <option name="closed" value="true" />
+      <created>1702060595309</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1702060595309</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="file extension fixed" />
-    <MESSAGE value="added Pattern Syntax Checker" />
-    <MESSAGE value="added Java Regex" />
     <MESSAGE value="added day 18" />
     <MESSAGE value="initial comment" />
     <MESSAGE value="added Day 19" />
@@ -426,7 +464,12 @@
     <MESSAGE value="add Java 1D Array" />
     <MESSAGE value="add Java 2D Array" />
     <MESSAGE value="add Java Arraylist" />
+    <MESSAGE value="add Java Hashset" />
     <MESSAGE value="update readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
+    <MESSAGE value="add Java Priorty Queue" />
+    <MESSAGE value="update readm" />
+    <MESSAGE value="add Basic Join" />
+    <MESSAGE value="add Basic Select" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Basic Select" />
   </component>
 </project>
