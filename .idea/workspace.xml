@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="add Basic Select">
+    <list default="true" id="b4434d94-240a-4d18-bf06-8f088ff03ada" name="Changes" comment="initial commit">
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../book-sorter/src/main/java/org/example/PageNumberComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../football-fixture-creator/src/main/java/org/kartal/Fixture.java" afterDir="false" />
@@ -48,30 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699271284162</updated>
-    </task>
-    <task id="LOCAL-00004" summary="added Pattern Syntax Checker">
-      <option name="closed" value="true" />
-      <created>1699362900552</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1699362900552</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added Java Regex">
-      <option name="closed" value="true" />
-      <created>1699367637698</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1699367637698</updated>
-    </task>
-    <task id="LOCAL-00006" summary="initial commit">
-      <option name="closed" value="true" />
-      <created>1699446771547</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1699446771547</updated>
     </task>
     <task id="LOCAL-00007" summary="updated readme.md">
       <option name="closed" value="true" />
@@ -441,14 +417,37 @@
       <option name="project" value="LOCAL" />
       <updated>1702060595309</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702132823098</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1702132823098</updated>
+    </task>
+    <task id="LOCAL-00054" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702221540754</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221540754</updated>
+    </task>
+    <task id="LOCAL-00055" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702301971420</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1702301971422</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added day 18" />
     <MESSAGE value="initial comment" />
     <MESSAGE value="added Day 19" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="added Day 20" />
     <MESSAGE value="added Day 21" />
     <MESSAGE value="added Day 22" />
@@ -470,6 +469,7 @@
     <MESSAGE value="update readm" />
     <MESSAGE value="add Basic Join" />
     <MESSAGE value="add Basic Select" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Basic Select" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
