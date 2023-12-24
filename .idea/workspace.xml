@@ -11,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/QueueDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../queue-stack-demo/src/main/java/org/example/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699271284162</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added Day 20">
-      <option name="closed" value="true" />
-      <created>1699707255083</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1699707255083</updated>
-    </task>
-    <task id="LOCAL-00017" summary="updated readme.md">
-      <option name="closed" value="true" />
-      <created>1699707373294</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1699707373294</updated>
     </task>
     <task id="LOCAL-00018" summary="added Day 21">
       <option name="closed" value="true" />
@@ -440,7 +426,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703228513524</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1703266027334</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1703266027334</updated>
+    </task>
+    <task id="LOCAL-00066" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1703288379964</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1703288379965</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
