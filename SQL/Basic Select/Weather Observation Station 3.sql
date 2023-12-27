@@ -1,0 +1,5 @@
+-- Created by Ugur Kartal
+
+SELECT DISTINCT(CITY)
+FROM STATION
+WHERE ID % 2 = 0;
