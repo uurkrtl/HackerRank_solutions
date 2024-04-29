@@ -31,16 +31,18 @@ public class Solution {
         });
 
         bufferedReader.close();
-        int tempSum = Integer.MIN_VALUE;
-        int sum = Integer.MIN_VALUE;
-        for (int i = 0; i<4; i++){
-            for (int j = 0; j<4; j++){
-                tempSum = arr.get(i).get(j) + arr.get(i).get(j+1) + arr.get(i).get(j+2) +
-                    arr.get(i+1).get(j+1) +
-                    arr.get(i+2).get(j) + arr.get(i+2).get(j+1) + arr.get(i+2).get(j+2);
-                sum = Math.max(sum, tempSum);
+        //Solution:
+        int biggestSum = Integer.MIN_VALUE;
+        for (int row = 0; row<=3; row++){
+            for(int col = 0; col<=3; col++){
+                int sum = 0;
+                for(int matrix = col; matrix<=col+2; matrix++){
+                    sum += arr.get(row).get(matrix) + arr.get(row+2).get(matrix);
+                }
+                sum += arr.get(row+1).get(col+1);
+                biggestSum = Integer.max(biggestSum, sum);
             }
         }
-        System.out.println(sum);
+        System.out.println(biggestSum);
     }
 }
