@@ -1,9 +1,6 @@
-
 # 1 Week Preparation Kit (Java)
 
-|          Day          |                                                         Challenge                                                        |                                                                            Solution                                                                            |
-|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Day 1        | [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus)                                                |               [Solution.java]()                |
-|         Day 1        | [Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum)                                 |          [Solution.java]()          |
-|         Day 1        | [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion)                                                       |                  [Solution.java]()                   |
-|         Day 2        | [Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer)                                      |         [Solution.java]()          |
+|          Day          |                                                         Challenge                                                        | Solution                                                                            |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |               [Solution.java](https://github.com/uurkrtl/HackerRank_solutions/blob/master/Java/Introduction/Welcome%20to%20Java!/Solution.java)                |
+|         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                 |          [Solution.java](https://github.com/uurkrtl/HackerRank_solutions/blob/master/Java/Introduction/Java%20Stdin%20and%20Stdout%20I/Solution.java)          |
